@@ -1,0 +1,2 @@
+Regex (after adding concat symbol): a*+b*.(q*.c.d*+e.f.h)*.(d.e).(f.e)*+l.e
+Postfix expression for the regex  : a*b*q*c.d*.ef.h.+*.de..fe.*.+le.+
